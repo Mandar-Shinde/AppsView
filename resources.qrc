@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Res" >
+		<file>Resources/thinspace.png</file>
+		<file>Resources/grid.png</file>
+		<file>Resources/list.png</file>
+		<file>Resources/spread.png</file>
+		<file>Resources/uniform.png</file>
+		<file>Resources/reset.png</file>
+		<file>Resources/group.png</file>
+		<file>Resources/home.png</file>
+		<file>Resources/loading.png</file>
+    </qresource>
+</RCC>
+
